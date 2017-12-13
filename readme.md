@@ -24,7 +24,7 @@
     启动 npm start
     ```
 ## 说明
-    默认有一个配置文件,在 config/node-touch.json，程序本身会从 $HOME/.config/node-touch/node-touch.json里面获取配置，如果获取不到就会使用config下面的配置,如果有需要的话可以自己复制默认配置文件到自己的home目录下面。由于我用的是ubuntu-gnome-desktop，所以默认配置文件也用的是gnome的配置，如果对应不起来，请自己修改
+*    默认有一个配置文件,在 config/node-touch.json，程序本身会从 $HOME/.config/node-touch/node-touch.json里面获取配置，如果获取不到就会使用config下面的配置,如果有需要的话可以自己复制默认配置文件到自己的home目录下面。由于我用的是ubuntu-gnome-desktop，所以默认配置文件也用的是gnome的配置，如果对应不起来，请自己修改
 
 ## 可能会遇到的问题
 1. 安装robotjs可能会遇到编译不通过，清大家自行到robotjs的wiki看看 
