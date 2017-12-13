@@ -1,0 +1,19 @@
+{
+  "name": "node-touch",
+  "version": "1.0.0",
+  "description": "node-touch",
+  "main": "bin/node-touch.js",
+  "scripts": {
+    "start": "sudo node bin/node-touch.js"
+  },
+  "keywords": [
+    "node",
+    "touch",
+    "node-touch"
+  ],
+  "author": "xhz",
+  "license": "ISC",
+  "dependencies": {
+    "robotjs": "^0.4.7"
+  }
+}
